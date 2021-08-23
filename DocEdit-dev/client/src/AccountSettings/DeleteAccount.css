@@ -1,0 +1,22 @@
+.DeleteAccount {
+    width: 100%;
+    margin-top: 48px;
+    background: rgba(16, 16, 16, 0.09);
+    padding: 32px;
+    border-radius: 8px;
+}
+
+.DeleteAccount-Button {
+    font-size: 24px;
+    padding: 10px 48px;
+    margin: auto;
+    background:rgba(225, 225, 225, 0.09);
+    border-radius: 8px;
+    transition: all ease-in-out 300ms;
+}
+
+.DeleteAccount-Button:hover {
+    background: tomato;
+    transform: scale(1.44);
+    cursor: pointer;
+}
